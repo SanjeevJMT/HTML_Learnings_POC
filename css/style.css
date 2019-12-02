@@ -1,0 +1,143 @@
+/* * {margin: 0;padding: 0;}   */
+.dot {
+	height: 25px;
+	width: 25px;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+}
+
+nav {
+	background: #2343af;
+	width: 100%;
+}
+
+ul {
+	padding: 0;
+	margin: 0 auto;
+	width: 100%;
+}
+
+ul li {
+	list-style: none;
+	display: inline-block;
+	padding: 20px;
+}
+
+ul li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.declaration {
+	padding-top: 50px;
+	padding-bottom: 18px;
+	text-align: center;
+	color: #fff;
+	background: #a7a7a7;
+	width: 100%;
+	height: 25%;
+}
+
+h5 {
+	margin-left: 38%;
+	margin-right: 38%;
+	color: #fff;
+	text-align: left;
+}
+
+.projects-container {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: white;
+	padding-bottom: 8px;
+}
+
+.blue-button {
+	color: #fff;
+	border-radius: 8px;
+	width: 15%;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	border: none;
+	font-size: 14px;
+	background-color: #2343af;
+}
+
+.projects-container>div {
+	background-color: #2343af;
+	border-radius: 18px;
+	color: white;
+	width: 30%;
+	height: 20%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 20px;
+	font-size: 12px;
+}
+
+.red-button {
+	color: #fff;
+	margin: 10px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border: none;
+	font-size: 14px;
+	background-color: #ff0000;
+}
+
+.description {
+	margin: 10px;
+	font-size: 13px;
+}
+
+hr {
+	border: 1px solid #868686;
+}
+
+.testimonial-container {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: white;
+	padding-bottom: 8px;
+}
+
+.testimonial-container>div {
+	background-color: #ffffff;
+	border-radius: 18px;
+	border: 1px solid grey;
+	padding-left: 5 px;
+	color: white;
+	width: 30%;
+	height: 20%;
+	margin-left: 9.8%;
+	margin-right: 9.8%;
+	margin-top: 20px;
+	font-size: 12px;
+}
+
+.circle {
+	height: 40px;
+	width: 40px;
+	background-color: white;
+	border: 1px solid grey; border-radius : 50%;
+	display: inline-block;
+	border-radius: 50%;
+}
+
+h4 {
+	color: #2343af;
+}
+
+.footer {
+	padding-left: 5px;
+	padding-top: 10px;
+	padding-bottom: 40px;
+	text-align: left;
+	color: #fff;
+	font: bold;
+	font-size: 18px; background : #a7a7a7;
+	width: 100%;
+	height: 25%;
+	background: #a7a7a7;
+}
